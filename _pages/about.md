@@ -16,6 +16,5 @@ Previously I spent great years at National Chiao Tung University working with [P
 
 Feel free to contact me if you are interested in my research or have any questions. I am more than happy to hear from you!
 
----
-Full CV:  <a href="files/.pdf" target="_blank">pdf</a>.
----
+Full CV:  <a href="files/Yun_Wei_CV.pdf" target="_blank">pdf</a>.
+
