@@ -18,7 +18,7 @@ author_profile: true
 <b>[GraphSW: a training protocol based on stage-wise training for GNN-based Recommender Model](https://arxiv.org/abs/1908.05611)</b> 
 <br>Chang-You Tai, Meng-Ru Wu, <b>Yun-Wei Chu</b>, Shao-Yu Chu, Lun-Wei Ku. <i>arXiv preprint</i>. [[PDF]](https://arxiv.org/abs/1908.05611)
 <br>
-<b>[Neural Network Based Luminance Variation Resistant Remote-Photoplethysmography for Driver’s Heart Rate Monitoring](https://ieeexplore.ieee.org/document/8701432)</b> 
+<b>[Neural Network Based Luminance Variation Resistant Remote-PPG for Driver’s Heart Rate Monitoring](https://ieeexplore.ieee.org/document/8701432)</b> 
 <br>Bing-Fei Wu, <b>Yun-Wei Chu</b>, Po-Wei Huang, Meng-Liang Chung.  <i>IEEE Access</i>. [[PDF]](https://ieeexplore.ieee.org/document/8701432)
 <br>
 <b>[A Motion Robust Remote-PPG Approach to Driver’s Health State Monitoring.](https://link.springer.com/chapter/10.1007/978-3-319-54407-6_31)</b> 
