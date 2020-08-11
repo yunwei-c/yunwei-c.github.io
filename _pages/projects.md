@@ -59,7 +59,7 @@ author_profile: true
 </div> 
 <div style="margin:8px;float:left;width:75%;text-align:justify;line-height:18px">
 <b>Luminance Variation Resistant Remote-PPG</b>
-<small><br>Collected drivers’ facial dataset (2.7M continuous images) in different outdoor scenarios, including day time and night. Developed an Adaptive Neural Network Model Selection algorithm to eliminate facial luminance variation noise from rPPG signal and successfully reduced the mean absolute error from 14.71 bpm to 4.51 bpm.
+<small><br>Collected drivers’ facial dataset (2.7M continuous images) in different outdoor scenarios, including day time and nighttime. Developed an Adaptive Neural Network Model Selection algorithm to dynamically select personalized model and eliminate facial luminance variation noise from rPPG signal. This work successfully reduced the mean absolute error from 14.71 bpm to 4.51 bpm.
 <br>
 <a href="https://ieeexplore.ieee.org/document/8701432">[Paper Link]</a> <a href="https://www.youtube.com/watch?v=cvw8AeakBt8&feature=youtu.be">[Demo Video]</a> </small>
 </div>
@@ -72,7 +72,7 @@ author_profile: true
 </div> 
 <div style="margin:8px;float:left;width:75%;text-align:justify;line-height:18px">
 <b>Motion Robust Remote-PPG </b>
-<small><br>Built a face tracking algorithm to extract heart rate signal from driver’s face in continuous images sequence. Developed machine learning approach to eliminate rPPG noise. This work is first of its kind as the traditional rPPG work consider only in indoor environment.
+<small><br>Built a face tracking algorithm to extract heart rate signal from driver’s face in continuous images sequence. Developed machine learning approach to eliminate rPPG noise caused by driver's facial motion. This work is first of its kind as the traditional rPPG work consider only in indoor and stable environment.
 <br>
 <a href="https://link.springer.com/chapter/10.1007/978-3-319-54407-6_31">[Paper Link]</a> </small>
 </div>
