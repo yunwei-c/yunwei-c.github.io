@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <div style="float:left">
-<img align="left" width="300px" height="300px" src="/images/AAAI_DSTC.png">
+<img src="/images/AAAI_DSTC.png" align="left" width="300" height="300" >
 </div>
 <div style="margin:10px;float:left;width:75%;text-align:justify">
 <b>Multi-modal Dialog System</b>
