@@ -5,6 +5,11 @@ permalink: /projects/
 author_profile: true
 
 ---
+<img align="left" width="200" height="150" src="/images/SW.png">
+<b>Multiview Items Recommendation</b>
+<br>Developed a GNN-based recommendation model which provides superior recommendations by describing items from a unique mixed view from user and entity angles. From the user view, user-oriented modules aggregate features to make recommendations from a personalized perspective. From the entity view, the mixing layer contrasts layer-wise GCN information to further obtain comprehensive features from internal entity-entity interactions. This work significantly outperforms state-of-the-art methods and indeed captures entities that attract users.
+<br> [[Paper Link]] (https://arxiv.org/abs/1908.05611)
+
 ##
 <img align="left" width="200" height="150" src="/images/SW.png">
 <b>Stage-Wise Training for GNN-based Recommender Model</b>
