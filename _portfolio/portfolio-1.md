@@ -1,7 +1,4 @@
----
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: portfolio
----
-![image](/images/500x300.png){: style="float: left"; margin-right: 10em; height="25%" width="25%"} ## Some Text On Left!<br>Some Text On Left!<br><br>Some Text On Left!Some Text On Left!Some Text
+
+
+{% include portfolio-2.html image_path="/images/500x300.png" title="Some title text" description="Some more text that will appear to the left of the image." %}
 
