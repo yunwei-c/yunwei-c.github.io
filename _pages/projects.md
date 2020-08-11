@@ -6,16 +6,15 @@ author_profile: true
 ---
 
 <div style="float:left">
-<img align="left" width="200" height="200" src="/images/AAAI_DSTC.png">
+<img align="left" width="200px" height="200px" src="/images/AAAI_DSTC.png">
 </div>
-<div style="margin:20px;float:left;width:70%">
+<div style="margin:10px;float:left;width:70%">
 <b>Multi-modal Dialog System</b>
 <br>Proposed a multi-step joint-modality attention network based on recurrent neural network to reason on multiple modalities including audio, vision, and language. The jointly considered both visual and textual representations in each reasoning process to better integrate information from dynamic scenes.
 <br>
  <a href="https://arxiv.org/abs/2001.06206">[Paper Link]</a>
 </div>
 <div style="clear:both"></div>
-<br>[[Paper Link]](https://arxiv.org/abs/2001.06206)
 
  
 <img align="left" width="200" height="200" src="/images/SIGIR.png">
