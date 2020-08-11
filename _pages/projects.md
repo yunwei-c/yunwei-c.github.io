@@ -15,7 +15,7 @@ author_profile: true
 <a href="https://arxiv.org/abs/2001.06206">[Paper Link]</a></small>
 </div>
 <div style="clear:both"></div>
-
+<hr> 
 
 <div style="float:left">
 <img align="left" width="200px" height="200px" src="/images/SIGIR.png">
