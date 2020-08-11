@@ -16,6 +16,8 @@ author_profile: true
 <br> 
 <br> 
 <br> 
+<br> 
+<br> 
 
 <img align="left" width="200" height="150" src="/images/ACCV.png">
 <b>Motion Robust rPPG Approach</b>
