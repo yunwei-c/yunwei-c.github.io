@@ -8,9 +8,9 @@ author_profile: true
 <div style="float:left">
 <img src="/images/AAAI_DSTC.png" align="left" width="200px" height="200px" >
 </div>
-<div style="margin:1px; float:left; width:75%; text-align:justify">
+<div style="margin:5px; float:left; width:75%; text-align:justify">
 <b>Multi-modal Dialog System</b></div>
-<div style="margin:1px; float:left; width:75%; text-align:justify; font-size:5px">
+<div style="margin:5px; float:left; width:75%; text-align:justify; font-size:5px">
 <br>Proposed a multi-step joint-modality attention network based on recurrent neural network to reason on multiple modalities including audio, vision, and language. The jointly considered both visual and textual representations in each reasoning process to better integrate information from dynamic scenes.
 <br>
 <a href="https://arxiv.org/abs/2001.06206">[Paper Link]</a>
@@ -21,7 +21,7 @@ author_profile: true
 <div style="float:left">
 <img align="left" width="200px" height="200px" src="/images/SIGIR.png">
 </div>
-<div style="margin:10px;float:left;width:75%;text-align:justify;line-height:10px">
+<div style="margin:10px;float:left;width:75%;text-align:justify;line-height:15px">
 <b>Multiview Items Recommendation</b>
 <br>Developed a GNN-based recommendation model which provides superior recommendations by describing items from user and entity angles. Designed user-oriented modules that aggregate features to make personalized recommendations and a mixing layer which contrasts layer-wise GCN to obtain comprehensive features from internal entity-entity interactions. 
 <br>
