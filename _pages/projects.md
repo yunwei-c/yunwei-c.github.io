@@ -8,7 +8,7 @@ author_profile: true
 <img align="left" width="200" height="150" src="/images/SW.png">
 <b>Stage-Wise Training for GNN-based Recommender Model</b>
 <br>Applied stage-wise training on two state-of-the-art recommendation models, RippleNet and Knowledge Graph Convolutional Networks (KGCN), and evaluated the performance on six real world datasets. The result of the experiments shows that stage-wise training strategy can help both models to collect more information from the KG and improve the recommendation performance. 
-<br> [[Paper Link]](https://arxiv.org/abs/1908.05611)
+<br> Paper Link(https://arxiv.org/abs/1908.05611)
 
 ##
 <img align="left" width="200" height="150" src="/images/ACCESS.png">
