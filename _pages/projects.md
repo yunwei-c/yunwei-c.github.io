@@ -10,19 +10,19 @@ author_profile: true
 <br>Proposed a multi-step joint-modality attention network based on recurrent neural network to reason on multiple modalities including audio, vision, and language. The jointly considered both visual and textual representations in each reasoning process to better integrate information from dynamic scenes.
 <br> [[Paper Link]](https://arxiv.org/abs/2001.06206)
 
-##
+## 
 <img align="left" width="200" height="150" src="/images/SIGIR.png">
 <b>Multiview Items Recommendation</b>
 <br>Developed a GNN-based recommendation model which provides superior recommendations by describing items from user and entity angles. Designed user-oriented modules that aggregate features to make recommendations from a personalized perspective and a mixing layer which contrasts layer-wise GCN to further obtain comprehensive features from internal entity-entity interactions. This work significantly outperforms state-of-the-art methods and indeed captures entities that attract users.
 <br> [[Paper Link]](https://arxiv.org/abs/2005.12516)
 
-##
+## 
 <img align="left" width="200" height="150" src="/images/SW.png">
 <b>Stage-Wise Training for GNN-based Recommender Model</b>
 <br>Applied stage-wise training on two state-of-the-art recommendation models, RippleNet and Knowledge Graph Convolutional Networks (KGCN), and evaluated the performance on six real world datasets. The result of the experiments shows that stage-wise training strategy can help both models to collect more information from the KG and improve the recommendation performance. 
 <br> [[Paper Link]](https://arxiv.org/abs/1908.05611)
 
-##
+## 
 <img align="left" width="200" height="150" src="/images/ACCESS.png">
 <b>Luminance Variation Resistant Remote-PPG</b>
 <br>Collected drivers’ facial dataset (2.7M continuous images) in different outdoor scenarios, including day time and night. Developed an Adaptive Neural Network Model Selection algorithm to eliminate facial luminance variation noise from rPPG signal and  successfully reduced the mean absolute error from 14.71 bpm to 4.51 bpm.
