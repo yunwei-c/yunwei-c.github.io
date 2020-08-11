@@ -11,6 +11,7 @@ author_profile: true
 <br>[Paper Link](https://arxiv.org/abs/1908.05611)
 
 
+##
 <img align="left" width="200" height="150" src="/images/ACCESS.png">
 <b>Luminance Variation Resistant Remote-PPG</b>
 <br>Collected drivers’ facial dataset (2.7M continuous images) in different outdoor scenarios, including day time and night. Developed an Adaptive Neural Network Model Selection algorithm to eliminate facial luminance variation noise from rPPG signal and  successfully reduced the mean absolute error from 14.71 bpm to 4.51 bpm.
