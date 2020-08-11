@@ -5,6 +5,10 @@ permalink: /projects/
 author_profile: true
 
 ---
+<img align="left" width="200" height="150" src="/images/SW.png">
+<b>Stage-Wise Training for GNN-based Recommender Model</b>
+<br>
+<br>[Paper Link](https://arxiv.org/abs/1908.05611)
 
 
 <img align="left" width="200" height="150" src="/images/ACCESS.png">
