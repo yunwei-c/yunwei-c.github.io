@@ -13,8 +13,8 @@ author_profile: true
 <br>This is the code you need to align images to the left:
 <br>This is the code you need to align images to the left:
 <br>This is the code you need to align images to the left:
-<br>
-
+<br> 
+<br> 
 
 ##
 <img align="left" width="200" height="150" src="/images/ACCV.png">
