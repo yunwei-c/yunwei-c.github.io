@@ -18,5 +18,5 @@ author_profile: true
 
 ##
 <img align="left" width="200" height="150" src="/images/ACCV.png">
-<b>*Motion Robust rPPG Approach</b>
+<b><span style="font-size:larger;">Motion Robust rPPG Approach</span></b>
 <br>Built a face tracking algorithm to extract heart rate signal from driver’s face in continuous images sequence. Developed machine learning approach to eliminate rPPG noise. This work is first of its kind as the traditional rPPG work consider only in indoor environment.
