@@ -8,8 +8,8 @@ author_profile: true
 <div style="float:left">
 <img align="left" width="200px" height="200px" src="/images/AAAI_DSTC.png">
 </div>
-<b>Multi-modal Dialog System</b>
 <div style="margin:10px;float:left;width:75%;text-align:justify">
+<b>Multi-modal Dialog System</b>
 <br>Proposed a multi-step joint-modality attention network based on recurrent neural network to reason on multiple modalities including audio, vision, and language. The jointly considered both visual and textual representations in each reasoning process to better integrate information from dynamic scenes.
 <br>
  <a href="https://arxiv.org/abs/2001.06206">[Paper Link]</a>
