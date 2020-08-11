@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Projects"
+permalink: /publications/
+author_profile: true
+---
+
 ##
 <img align="left" width="150" height="120" src="/images/500x300.png">
 <b>Title</b>
