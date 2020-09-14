@@ -9,7 +9,7 @@ author_profile: true
 <img class="logoImg amplifyImg" src="/images/Stretch.png" align="left" width="200px" height="200px" >
 </div>
 <div style="margin:8px;float:left;width:75%;text-align:justify;line-height:18px">
-<b>Telescopic Visual Storytelling</b>
+<b>Telescopic Visual Storytellings</b>
 <small><br>Distilled nouns and verbs from a sequence of images and utilized knowledge graph to find the important relations between nouns. Dynamically performed recurrent Transformer to generated stories with diverse length. The human evaluation showed that our model can generate longer stories, even when the input images are incohert.
 <br> [Work in Progress]</small>
 </div>
