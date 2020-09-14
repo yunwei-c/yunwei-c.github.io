@@ -6,8 +6,18 @@ author_profile: true
 ---
 
 <div style="float:left">
-<img src="/images/Stretch.png" align="left" width="200px" height="200px" >
+<img class="dialog" src="/images/Stretch.png" align="left" width="200px" height="200px" >
+<div id="Stretch_img"></div>
 </div>
+<script type="text/javascript">
+$(function () {
+$("img.dialog").click(function() {
+var large_image = '<img src= '   $(this).attr("src")   '></img>';
+$('#Stretch_img').html($(large_image).animate({ height: '50%', width: '50%' }, 500));
+});
+});
+</script>
+
 <div style="margin:8px;float:left;width:75%;text-align:justify;line-height:18px">
 <b>Telescopic Visual Storytelling</b>
 <small><br>Distilled nouns and verbs from a sequence of images and utilized knowledge graph to find the important relations between nouns. Dynamically performed recurrent Transformer to generated stories with diverse length. The human evaluation showed that our model can generate longer stories, even when the input images are incohert.
