@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 <div style="float:left">
-<img class="logoImg amplifyImg" src="/images/Stretch.png" align="left" width="200px" height="200px" >
+<img class="logoImg amplifyImg" src="/images/Stretch2.png" align="left" width="200px" height="200px" >
 </div>
 <div style="margin:8px;float:left;width:75%;text-align:justify;line-height:18px">
 <b>Telescopic Visual Storytelling</b>
-<small><br>Distilled nouns and verbs from a sequence of images and utilized knowledge graph to find the important relations between nouns. Dynamically performed recurrent Transformer to generated stories with diverse length. The human evaluation showed that our model can generate longer stories, even when the input images are incohert.
+<small><br>Distilled representative terms from a sequence of images and proposed a scoring function to find the appropriate relations between terms on knowledge graph. Developed length-controlled Transformer to generated stories with diverse length. The human evaluation showed that our model can provide better focus and detail when stories are prolonged compared to the state of the art.
 <br> [Work in Progress]</small>
 </div>
 <div style="clear:both"></div>
