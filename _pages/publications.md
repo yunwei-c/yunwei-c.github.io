@@ -9,8 +9,8 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-<b><a href="files/AAAI21_Workshop_VIST_Question.pdf" target="_blank">Let's Talk! Striking Up Conversations via Conversational Visual Question Generation</a></b> 
-<br>Shih-Han Chan, Tsai-Lun Yang, <b>Yun-Wei Chu</b>, Chi-Yang Hsu, Ting-Hao K. Huang, Yu-Shian Chiu and Lun-Wei Ku. <i>AAAI DEEP-DIAL 2021</i>. [PDF]
+<b><a href="/files/AAAI21_Workshop_VIST_Question.pdf" target="_blank">Let's Talk! Striking Up Conversations via Conversational Visual Question Generation</a></b> 
+<br>Shih-Han Chan, Tsai-Lun Yang, <b>Yun-Wei Chu</b>, Chi-Yang Hsu, Ting-Hao K. Huang, Yu-Shian Chiu, Lun-Wei Ku. <i>AAAI DEEP-DIAL 2021</i>. <a href="/files/AAAI21_Workshop_VIST_Question.pdf" target="_blank">[PDF]</a>
 <br>
 <b>[Multi-step Joint-Modality Attention Network for Scene-Aware Dialogue System](https://arxiv.org/abs/2001.06206)</b> 
 <br><b>Yun-Wei Chu</b>, Kuan-Yen Lin, Chao-Chun Hsu, Lun-Wei Ku. <i>AAAI DSTC 2020</i>. [[PDF]](https://arxiv.org/abs/2001.06206)
