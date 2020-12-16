@@ -17,7 +17,7 @@ author_profile: true
 <hr> 
 
 <div style="float:left">
-<img class="logoImg amplifyImg" src="/images/.png" align="left" width="200px" height="200px" >
+<img class="logoImg amplifyImg" src="/images/fig1_fin.png" align="left" width="200px" height="200px" >
 </div>
 <div style="margin:8px;float:left;width:75%;text-align:justify;line-height:18px">
 <b>Conversational Visual Question Generation</b>
