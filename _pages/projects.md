@@ -16,6 +16,16 @@ author_profile: true
 <div style="clear:both"></div>
 <hr> 
 
+<div style="float:left">
+<img class="logoImg amplifyImg" src="/images/.png" align="left" width="200px" height="200px" >
+</div>
+<div style="margin:8px;float:left;width:75%;text-align:justify;line-height:18px">
+<b>Conversational Visual Question Generation</b>
+<small><br>Explored a novel scenario: a conversation agent views a set of the user's photos and asks an engaging question to initiate a conversation with the user. Introduced a two-phase framework that first generates a visual story for the photo set and then uses the story to produce an interesting question. The human evaluation shows that our framework generates more response-provoking questions for starting conversations than other vision-to-question baselines.
+<br> [Paper Link]</small>
+</div>
+<div style="clear:both"></div>
+<hr> 
 
 <div style="float:left">
 <img src="/images/AAAI_DSTC.png" align="left" width="200px" height="200px" >
