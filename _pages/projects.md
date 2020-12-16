@@ -23,7 +23,7 @@ author_profile: true
 <b>Conversational Visual Question Generation</b>
 <small><br>Explored a novel scenario: a conversation agent views a set of the user's photos and asks an engaging question to initiate a conversation with the user. Introduced a two-phase framework that first generates a visual story for the photo set and then uses the story to produce an interesting question. The human evaluation shows that our framework generates more response-provoking questions for starting conversations than other vision-to-question baselines.
 <br>
-<a href="files/AAAI21_Workshop_VIST_Question.pdf">[Paper Link]</a></small>
+<a href="/files/AAAI21_Workshop_VIST_Question.pdf">[Paper Link]</a></small>
 </div>
 <div style="clear:both"></div>
 <hr> 
