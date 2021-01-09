@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yun-Wei Chu"
   avatar           : "chu_cut.jpg"
-  bio              : "Research assistant at Academia Sinica. MS at National Chiao Tung University."
-  location         : "Taipei, Taiwan"
-  employer         : "Academia Sinica"
+  bio              : "PhD student at Purdue University."
+  location         : "IN, USA"
+  employer         : "Purdue University"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : yunweichu@iis.sinica.edu.tw
+  email            : chu198@purdue.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
