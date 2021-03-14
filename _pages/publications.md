@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 <b>[End-to-end Recurrent Cross-Modality Attention for Video Dialogue](https://ieeexplore.ieee.org/document/9376964)</b> 
-<br><b>Yun-Wei Chu</b>, Kuan-Yen Lin, Chao-Chun Hsu, Lun-Wei Ku. <i>IEEE/ACM Transactions on Audio, Speech and Language Processing 2021</i>.
+<br><b>Yun-Wei Chu</b>, Kuan-Yen Lin, Chao-Chun Hsu, Lun-Wei Ku. <i>IEEE/ACM Transactions on Audio, Speech and Language Processing 2021</i>. <a href="/files/TASL_final_paper.pdf" target="_blank">[PDF]</a>
 <br>
 <b><a href="/files/AAAI21_Workshop_VIST_Question.pdf" target="_blank">Let's Talk! Striking Up Conversations via Conversational Visual Question Generation</a></b> 
 <br>Shih-Han Chan, Tsai-Lun Yang, <b>Yun-Wei Chu</b>, Chi-Yang Hsu, Ting-Hao Huang, Yu-Shian Chiu, Lun-Wei Ku. <i>AAAI DEEP-DIAL 2021</i>. <a href="/files/AAAI21_Workshop_VIST_Question.pdf" target="_blank">[PDF]</a>
