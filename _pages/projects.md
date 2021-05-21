@@ -4,16 +4,6 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
-<div style="float:left">
-<img class="logoImg amplifyImg" src="/images/ACL.png" align="left" width="200px" height="200px" >
-</div>
-<div style="margin:8px;float:left;width:75%;text-align:justify;line-height:18px">
-<b>Telescopic Visual Storytelling</b>
-<small><br>Distilled representative terms from a sequence of images and proposed a scoring function to find the appropriate relations between terms on knowledge graph. Developed length-controlled Transformer to generated stories with diverse length. The human evaluation showed that our model can provide better focus and detail when stories are prolonged compared to the state of the art.
-<br> [Submitted]</small>
-</div>
-<div style="clear:both"></div>
-<hr> 
 
 
 <div style="float:left">
