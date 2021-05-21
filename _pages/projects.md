@@ -35,7 +35,7 @@ author_profile: true
 <b>Multi-modal Dialog System</b>
 <small><br>Proposed a multi-step joint-modality attention network based on recurrent neural network to reason on multiple modalities, including audio, vision, and language. The model jointly considered both visual and textual representations in each reasoning process to better integrate information from dynamic scenes.
 <br>
-<a href="href="/files/TASL_final_paper.pdf">[Paper Link] (IEEE/ACM TASLP), </a> <a href="https://arxiv.org/abs/2001.06206">[Paper Link] (AAAI'20 workshop)</a></small>
+<a href="/files/TASL_final_paper.pdf">[Paper Link] (IEEE/ACM TASLP), </a> <a href="https://arxiv.org/abs/2001.06206">[Paper Link] (AAAI'20 workshop)</a></small>
 </div>
 <div style="clear:both"></div>
 <hr> 
