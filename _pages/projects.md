@@ -11,7 +11,7 @@ author_profile: true
 <div style="margin:8px;float:left;width:75%;text-align:justify;line-height:18px">
 <b>Telescopic Visual Storytelling</b>
 <small><br>Distilled representative terms from a sequence of images and proposed a scoring function to find the appropriate relations between terms on knowledge graph. Developed length-controlled Transformer to generated stories with diverse length. The human evaluation showed that our model can provide better focus and detail when stories are prolonged compared to the state of the art.
-<br> [Work in Progress]</small>
+<br> [Submitted]</small>
 </div>
 <div style="clear:both"></div>
 <hr> 
@@ -23,7 +23,7 @@ author_profile: true
 <b>Conversational Visual Question Generation</b>
 <small><br>Explored a novel scenario: a conversation agent views a set of the user's photos and asks an engaging question to initiate a conversation with the user. Introduced a two-phase framework that first generates a visual story for the photo set and then uses the story to produce an interesting question. The human evaluation shows that our framework generates more response-provoking questions for starting conversations than other vision-to-question baselines.
 <br>
-<a href="/files/AAAI21_Workshop_VIST_Question.pdf" target="_blank">[Paper Link]</a></small>
+<a href="/files/AAAI21_Workshop_VIST_Question.pdf" target="_blank">[Paper Link] (AAAI'21 workshop)</a></small>
 </div>
 <div style="clear:both"></div>
 <hr> 
@@ -35,7 +35,7 @@ author_profile: true
 <b>Multi-modal Dialog System</b>
 <small><br>Proposed a multi-step joint-modality attention network based on recurrent neural network to reason on multiple modalities, including audio, vision, and language. The model jointly considered both visual and textual representations in each reasoning process to better integrate information from dynamic scenes.
 <br>
-<a href="https://arxiv.org/abs/2001.06206">[Paper Link]</a></small>
+<a href="href="/files/TASL_final_paper.pdf">[Paper Link] (IEEE/ACM TASLP)</a></small>, <a href="https://arxiv.org/abs/2001.06206">[Paper Link] (AAAI'20 workshop)</a></small>
 </div>
 <div style="clear:both"></div>
 <hr> 
@@ -47,7 +47,7 @@ author_profile: true
 <b>Multiview Items Recommendation</b>
 <small><br>Developed a GNN-based recommendation model which provides superior recommendations by describing items from user and entity angles. Designed user-oriented modules that aggregate features to make personalized recommendations and a mixing layer which contrasts layer-wise GCN to obtain comprehensive features from internal entity-entity interactions. 
 <br>
-<a href="https://arxiv.org/abs/2005.12516">[Paper Link]</a></small>
+<a href="https://arxiv.org/abs/2005.12516">[Paper Link] (SIGIR'20)</a></small>
 </div>
 <div style="clear:both"></div>
 <hr> 
@@ -73,7 +73,7 @@ author_profile: true
 <b>Luminance Variation Resistant Remote-PPG</b>
 <small><br>Collected drivers’ facial dataset (2.7M continuous images) in different outdoor scenarios, including day time and nighttime. Developed an Adaptive Neural Network Model Selection algorithm to dynamically select personalized model and eliminate facial luminance variation noise from rPPG signal. This work successfully reduced the mean absolute error from 14.71 bpm to 4.51 bpm.
 <br>
-<a href="https://ieeexplore.ieee.org/document/8701432">[Paper Link]</a> <a href="https://www.youtube.com/watch?v=cvw8AeakBt8&feature=youtu.be">[Demo Video]</a> </small>
+<a href="https://ieeexplore.ieee.org/document/8701432">[Paper Link] (IEEE ACCESS)</a> <a href="https://www.youtube.com/watch?v=cvw8AeakBt8&feature=youtu.be">[Demo Video]</a> </small>
 </div>
 <div style="clear:both"></div>
 <hr> 
@@ -86,7 +86,7 @@ author_profile: true
 <b>Motion Robust Remote-PPG </b>
 <small><br>Built a face tracking algorithm to extract heart rate signal from driver’s face in continuous images sequence. Developed machine learning approach to eliminate rPPG noise caused by driver's facial motion. This work is first of its kind as the traditional rPPG work consider only in indoor and stable environment.
 <br>
-<a href="https://link.springer.com/chapter/10.1007/978-3-319-54407-6_31">[Paper Link]</a> </small>
+<a href="https://link.springer.com/chapter/10.1007/978-3-319-54407-6_31">[Paper Link] (ACCV'16 workshop)</a> </small>
 </div>
 <div style="clear:both"></div>
 <hr> 
