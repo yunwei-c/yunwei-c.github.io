@@ -10,9 +10,10 @@ author_profile: true
 <img class="logoImg amplifyImg" src="/images/Stretch2.png" align="left" width="200px" height="200px" >
 </div>
 <div style="margin:8px;float:left;width:75%;text-align:justify;line-height:18px">
-<b>Telescopic Visual Storytelling</b>
-<small><br>Distilled representative terms from a sequence of images and proposed a scoring function to find the appropriate relations between terms on knowledge graph. Developed length-controlled Transformer to generated stories with diverse length. The human evaluation showed that our model can provide better focus and detail when stories are prolonged compared to the state of the art.
-<br> [Submitted]</small>
+<b>Getting Flexible With Visual Stories</b>
+<small><br>Most visual storytelling models remain limited in terms of the generated stories' fixed length, and the fix-length stories carry limited details and provide ambiguous textual information to the readers. Therefore, we propose Stretch-VST to generate prolonged stories by adding appropriate knowledge. The framework distills representative terms from a sequence of images and find the appropriate relations between terms on knowledge graph by a scoring function. We also design a length-controlled Transformer to generate diverse length stories without deteriorating quality. Experiments and human evaluation confirm that the generated prolonged stories stories can provide better focus and detail compared to the state of the art.
+<br>
+<a href="https://youtu.be/-uF8IV6T1NU">[Video], </a> <a href="https://doraemon.iis.sinica.edu.tw/acldemo/index.html">[Demo], </a> [Paper to appear](ACL-IJCNLP'21 Demo)</small>
 </div>
 <div style="clear:both"></div>
 <hr> 
