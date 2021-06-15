@@ -5,6 +5,19 @@ permalink: /projects/
 author_profile: true
 ---
 
+<div style="float:left">
+<img class="logoImg amplifyImg" src="/images/fig1_fin.png" align="left" width="200px" height="200px" >
+</div>
+<div style="margin:8px;float:left;width:75%;text-align:justify;line-height:18px">
+<b>Modeling Storylines for Visual Storytelling</b>
+<small><br>Writing a coherent and engaging story is not easy, especially for automated visual storytelling models. We introduce PR-VIST, a framework that first represents the input image sequence as a story graph in which it finds the best path to form a storyline. PR-VIST then takes this path and learns to generate and refine the final story via Transformer with a human-like discriminator. This framework produces stories that are superior in terms of diversity, coherence, and humanness, per both automatic and human evaluations. An ablation study shows that both plotting and reworking contribute to the model's superiority.
+<br>
+<a href="https://arxiv.org/abs/2105.06950?context=cs.AI">[Paper Link] (ACL'21 Findings)</a></small>
+</div>
+<div style="clear:both"></div>
+<hr> 
+
+
 
 <div style="float:left">
 <img class="logoImg amplifyImg" src="/images/Stretch2.png" align="left" width="200px" height="200px" >
@@ -13,7 +26,7 @@ author_profile: true
 <b>Getting Flexible With Visual Stories</b>
 <small><br>Most visual storytelling models remain limited in terms of the generated stories' fixed length, and the fix-length stories carry limited details and provide ambiguous textual information to the readers. Therefore, we propose Stretch-VST to generate prolonged stories by adding appropriate knowledge. The framework distills representative terms from a sequence of images and find the appropriate relations between terms on knowledge graph by a scoring function. We also design a length-controlled Transformer to generate diverse length stories without deteriorating quality. Experiments and human evaluation confirm that the generated prolonged stories stories can provide better focus and detail compared to the state of the art.
 <br>
-<a href="https://youtu.be/-uF8IV6T1NU">[Video], </a> <a href="https://doraemon.iis.sinica.edu.tw/acldemo/index.html">[Demo], </a> [Paper to appear](ACL-IJCNLP'21 Demo)</small>
+<a href="https://youtu.be/-uF8IV6T1NU">[Video]</a>, <a href="https://doraemon.iis.sinica.edu.tw/acldemo/index.html">[Demo]</a>, [Paper to appear] (ACL-IJCNLP'21 Demo)</small>
 </div>
 <div style="clear:both"></div>
 <hr> 
@@ -37,7 +50,7 @@ author_profile: true
 <b>Multi-modal Dialog System</b>
 <small><br>Proposed a multi-step joint-modality attention network based on recurrent neural network to reason on multiple modalities, including audio, vision, and language. The model jointly considered both visual and textual representations in each reasoning process to better integrate information from dynamic scenes.
 <br>
-<a href="/files/TASL_final_paper.pdf">[Paper Link] (IEEE/ACM TASLP), </a> <a href="https://arxiv.org/abs/2001.06206">[Paper Link] (AAAI'20 workshop)</a></small>
+<a href="/files/TASL_final_paper.pdf">[Paper Link] (IEEE/ACM TASLP)</a>, <a href="https://arxiv.org/abs/2001.06206">[Paper Link] (AAAI'20 workshop)</a></small>
 </div>
 <div style="clear:both"></div>
 <hr> 
