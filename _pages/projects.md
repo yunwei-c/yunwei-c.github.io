@@ -12,7 +12,7 @@ author_profile: true
 <b>Modeling Storylines for Visual Storytelling</b>
 <small><br>Writing a coherent and engaging story is not easy, especially for automated visual storytelling models. We introduce PR-VIST, a framework that first represents the input image sequence as a story graph in which it finds the best path to form a storyline. PR-VIST then takes this path and learns to generate and refine the final story via Transformer with a human-like discriminator. This framework produces stories that are superior in terms of diversity, coherence, and humanness, per both automatic and human evaluations. An ablation study shows that both plotting and reworking contribute to the model's superiority.
 <br>
-<a href="https://arxiv.org/abs/2105.06950?context=cs.AI">[Paper Link] (ACL'21 Findings)</a></small>
+<a href="https://arxiv.org/abs/2105.06950?context=cs.AI">[Paper Link] (ACL-IJCNLP'21 Findings)</a></small>
 </div>
 <div style="clear:both"></div>
 <hr> 
