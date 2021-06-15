@@ -21,5 +21,5 @@ Before joining Purdue, I was a research assistant in <a href="https://academiasi
 Feel free to contact me if you are interested in my research or have any questions. I am more than happy to hear from you!
 <br>
 <br>
-Full CV:  <a href="files/Yun_Wei_CV.pdf" target="_blank">pdf</a>.
+Full CV:  <a href="files/Yun_Wei_CV_ver2.pdf" target="_blank">pdf</a>.
 </div>
