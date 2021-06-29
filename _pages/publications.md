@@ -9,10 +9,10 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 <b>[Plot and Rework: Modeling Storylines for Visual Storytelling](https://arxiv.org/abs/2105.06950?context=cs.AI)</b> 
-<br><b>Yun-Wei Chu*</b>, Chi-Yang Hsu<b>*</b>, Ting-Hao Huang, Lun-Wei Ku. (<b>*</b>denotes equal contribution) <i>ACL-IJCNLP Findings 2021</i>. <a href="/files/PlotandRework.pdf" target="_blank">[PDF]</a>
+<br><b>Yun-Wei Chu*</b>, Chi-Yang Hsu<b>*</b>, Ting-Hao Huang, Lun-Wei Ku. <i>ACL-IJCNLP Findings 2021</i>. <a href="/files/PlotandRework.pdf" target="_blank">[PDF]</a>
 <br>
 <b><a href="/files/StretchVIST.pdf" target="_blank">Stretch-VST: Getting Flexible With Visual Stories</a></b> 
-<br><b>Yun-Wei Chu*</b>, Chi-Yang Hsu<b>*</b>, Tsai-Lun Yang, Ting-Hao Huang, Lun-Wei Ku. (<b>*</b>denotes equal contribution) <i>ACL-IJCNLP Demo 2021</i>. <a href="/files/StretchVIST.pdf" target="_blank">[PDF]</a>
+<br><b>Yun-Wei Chu*</b>, Chi-Yang Hsu<b>*</b>, Tsai-Lun Yang, Ting-Hao Huang, Lun-Wei Ku. <i>ACL-IJCNLP Demo 2021</i>. <a href="/files/StretchVIST.pdf" target="_blank">[PDF]</a>
 <br>
 <b>[End-to-end Recurrent Cross-Modality Attention for Video Dialogue](https://ieeexplore.ieee.org/document/9376964)</b> 
 <br><b>Yun-Wei Chu</b>, Kuan-Yen Lin, Chao-Chun Hsu, Lun-Wei Ku. <i>IEEE/ACM Transactions on Audio, Speech and Language Processing 2021</i>. <a href="/files/TASL_final_paper.pdf" target="_blank">[PDF]</a>
