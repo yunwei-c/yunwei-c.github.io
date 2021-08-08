@@ -26,7 +26,7 @@ author_profile: true
 <b>Getting Flexible With Visual Stories</b>
 <small><br>Most visual storytelling models remain limited in terms of the generated stories' fixed length, and the fix-length stories carry limited details and provide ambiguous textual information to the readers. Therefore, we propose Stretch-VST to generate prolonged stories by adding appropriate knowledge. The framework distills representative terms from a sequence of images and find the appropriate relations between terms on knowledge graph by a scoring function. We also design a length-controlled Transformer to generate diverse length stories with better focus and detail compared to the state of the art.
 <br>
-<a href="https://youtu.be/-uF8IV6T1NU">[Video]</a>, <a href="https://doraemon.iis.sinica.edu.tw/acldemo/index.html">[Demo]</a>, <a href="/files/StretchVIST.pdf" target="_blank">[Paper Link] (ACL-IJCNLP'21 Demo)</a></small>
+<a href="https://youtu.be/-uF8IV6T1NU">[Video]</a>, <a href="/files/StretchVIST.pdf" target="_blank">[Paper Link] (ACL-IJCNLP'21 Demo)</a></small>
 </div>
 <div style="clear:both"></div>
 <hr> 
