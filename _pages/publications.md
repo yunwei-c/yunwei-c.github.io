@@ -20,6 +20,9 @@ author_profile: true
 <b><a href="/files/StretchVIST.pdf" target="_blank">Stretch-VST: Getting Flexible With Visual Stories</a></b> 
 <br><b>Yun-Wei Chu*</b>, Chi-Yang Hsu<b>*</b>, Tsai-Lun Yang, Ting-Hao Huang, Lun-Wei Ku. <i>ACL-IJCNLP Demo 2021</i>. <a href="/files/StretchVIST.pdf" target="_blank">[PDF]</a>
 <br>
+<b>[Click-Based Student Performance Prediction: A Clustering Guided Meta-Learning Approach](https://arxiv.org/abs/2111.00901)</b> 
+<br><b>Yun-Wei Chu</b>, Elizabeth Tenorio, Laura Cruz, Kerrie Douglas, Andrew Lan, Christopher Brinton. <i>IEEE Bigdata 2021</i>.
+<br>
 <b>[End-to-end Recurrent Cross-Modality Attention for Video Dialogue](https://ieeexplore.ieee.org/document/9376964)</b> 
 <br><b>Yun-Wei Chu</b>, Kuan-Yen Lin, Chao-Chun Hsu, Lun-Wei Ku. <i>IEEE/ACM Transactions on Audio, Speech and Language Processing 2021</i>. <a href="/files/TASL_final_paper.pdf" target="_blank">[PDF]</a>
 <br>
