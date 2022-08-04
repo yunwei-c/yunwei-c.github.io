@@ -8,6 +8,9 @@ author_profile: true
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
+<b>[Mitigating Biases in Student Performance Prediction via Attention-Based Personalized Federated Learning](https://arxiv.org/abs/2208.01182)</b> 
+<br><b>Yun-Wei Chu</b>, Seyyedali Hosseinalipour, Elizabeth Tenorio, Laura Cruz, Kerrie Douglas, Andrew Lan, Christopher Brinton. <i>ACM CIKM 2022</i>.
+<br>
 <b>[Learning to Rank Visual Stories from Human Ranking Data](https://aclanthology.org/2022.acl-long.441.pdf)</b> 
 <br><b>Yun-Wei Chu*</b>, Chi-Yang Hsu<b>*</b>, Vincent Chen<b>*</b>, Kuan-Chieh Lo, Chacha Chen, Ting-Hao Huang, Lun-Wei Ku. <i>ACL-IJCNLP 2022</i>.
 <br>
