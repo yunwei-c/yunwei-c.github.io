@@ -8,6 +8,9 @@ author_profile: true
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
+<b>[Learning to Rank Visual Stories from Human Ranking Data]([https://arxiv.org/abs/2105.06950?context=cs.AI](https://aclanthology.org/2022.acl-long.441.pdf))</b> 
+<br><b>Yun-Wei Chu*</b>, Chi-Yang Hsu<b>*</b>, Vincent Chen<b>*</b>, Kuan-Chieh Lo, Chacha Chen, Ting-Hao Huang, Lun-Wei Ku. <i>ACL-IJCNLP 2022</i>.
+<br>
 <b>[Plot and Rework: Modeling Storylines for Visual Storytelling](https://arxiv.org/abs/2105.06950?context=cs.AI)</b> 
 <br><b>Yun-Wei Chu*</b>, Chi-Yang Hsu<b>*</b>, Ting-Hao Huang, Lun-Wei Ku. <i>ACL-IJCNLP Findings 2021</i>. <a href="/files/PlotandRework.pdf" target="_blank">[PDF]</a>
 <br>
