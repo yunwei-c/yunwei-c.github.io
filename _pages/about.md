@@ -14,7 +14,7 @@ Welcome!
 <br>
  I am a PhD student in the School of Electrical & Computer Engineering at Purdue University, working on Federated Learning, Natural Language Processing, and Student Modeling with <a href="https://www.cbrinton.net/">Dr. Christopher Brinton</a>. 
 I have also had the opportunity to actively collaborate with <a href="https://people.umass.edu/~andrewlan/index.html">Dr. Andrew Lan</a>, <a href="https://engineering.purdue.edu/ENE/Academics/Graduate/People/Faculty/ptProfile?resource_id=79518">Dr. Kerrie Douglas</a>, and <a href="https://sites.google.com/ncsu.edu/seyyedalihosseinalipour">Dr. Seyyedali Hosseinali</a>.
-My current research focuses on (1) understanding the possibility of Federated Learning in the multi-lingual scenario and (2) mitigating prediction biases for under-represented minorities in student modeling. During my PhD, I have had the pleasure of doing my research internship at <a href="https://www.microsoft.com/en-us/research/">Microsoft Research</a>, where I was fortunate to work on entity-centric headline generation.
+My current research focuses on (1) understanding the possibility of Federated Learning in the multi-lingual scenario and (2) mitigating prediction biases for under-represented minorities in student modeling. During my PhD study, I have had the pleasure of doing my research internship at <a href="https://www.microsoft.com/en-us/research/">Microsoft Research</a>, where I was fortunate to work on entity-centric headline generation.
 
 <br>
 <br>  
