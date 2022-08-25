@@ -24,5 +24,5 @@ Before joining Purdue, I was a a full-time NLP research assistant in <a href="ht
 Feel free to contact me if you are interested in my research or have any questions. I am more than happy to hear from you!
 <br>
 <br>
-Full CV:  <a href="files/Yun_Wei_CV_ver2.pdf" target="_blank">pdf</a>.
+<a href="files/Yun_Wei_CV_ver2.pdf" target="_blank">[CV]</a>. 
 </div>
