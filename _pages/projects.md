@@ -9,6 +9,18 @@ author_profile: true
 <img class="logoImg amplifyImg" src="/images/ACL.png" align="left" width="200px" height="200px" >
 </div>
 <div style="margin:8px;float:left;width:75%;text-align:justify;line-height:18px">
+<b>The first reference-free evaluation metric for visual storytelling</b> 
+<small><br>It remains unclear whether conventional automatic evaluation metrics for text generation are applicable to Visual Storytelling (VIST). We collect VHED (VIST Human Evaluation Data) dataset, which first re-purposes human evaluation results for automatic evaluation; hence develop VRank (VIST ranker), a novel reference-free VIST metric for story evaluation. We first show that the results from commonly adopted automatic metrics for text generation have little correlation with those obtained from human evaluation, which motivates us to directly utilize human evaluation results to learn the automatic evaluation model. Experimental results show that our metric's prediction is significantly more aligned to human evaluation than other metrics with almost 30% higher accuracy when ranking story pairs. Moreover, we demonstrate that only VRank shows human-like behavior in its strong ability to find better stories when the quality gap between two stories is high.
+<br>
+<a href="[https://arxiv.org/abs/2105.06950?context=cs.AI](https://aclanthology.org/2022.acl-long.441.pdf)">[Paper Link] (ACL-IJCNLP'22)</a></small>
+</div>
+<div style="clear:both"></div>
+<hr> 
+
+<div style="float:left">
+<img class="logoImg amplifyImg" src="/images/ACL.png" align="left" width="200px" height="200px" >
+</div>
+<div style="margin:8px;float:left;width:75%;text-align:justify;line-height:18px">
 <b>Modeling Storylines for Visual Storytelling</b> 
 <small><br>Writing a coherent and engaging story is not easy, especially for automated visual storytelling models. We introduce PR-VIST, a framework that first represents the input image sequence as a story graph in which it finds the best path to form a storyline. PR-VIST then takes this path and learns to generate and refine the final story via Transformer with a human-like discriminator. This framework produces stories that are superior in terms of diversity, coherence, and humanness, per both automatic and human evaluations. An ablation study shows that both plotting and reworking contribute to the model's superiority.
 <br>
