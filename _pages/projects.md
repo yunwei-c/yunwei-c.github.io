@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 <div style="float:left">
-<img class="logoImg amplifyImg" src="/images/ACL.png" align="left" width="200px" height="200px" >
+<img class="logoImg amplifyImg" src="/images/ACL_rank.png" align="left" width="200px" height="200px" >
 </div>
 <div style="margin:8px;float:left;width:75%;text-align:justify;line-height:18px">
 <b>The first reference-free evaluation metric for visual storytelling</b> 
-<small><br>It remains unclear whether conventional automatic evaluation metrics for text generation are applicable to Visual Storytelling (VIST). We collect VHED (VIST Human Evaluation Data) dataset, which first re-purposes human evaluation results for automatic evaluation; hence develop VRank (VIST ranker), a novel reference-free VIST metric for story evaluation. We first show that the results from commonly adopted automatic metrics for text generation have little correlation with those obtained from human evaluation, which motivates us to directly utilize human evaluation results to learn the automatic evaluation model. Experimental results show that our metric's prediction is significantly more aligned to human evaluation than other metrics with almost 30% higher accuracy when ranking story pairs. Moreover, we demonstrate that only VRank shows human-like behavior in its strong ability to find better stories when the quality gap between two stories is high.
+<small><br>It remains unclear whether conventional automatic evaluation metrics for text generation are applicable to Visual Storytelling (VIST). We collect VHED (VIST Human Evaluation Data) dataset, which first re-purposes human evaluation results for automatic evaluation; hence develop VRank (VIST ranker), a novel reference-free VIST metric learned from VHED. Experimental results show that our metric's prediction is significantly more aligned to human evaluation than other metrics with almost 30% higher accuracy when ranking story pairs. Moreover, we demonstrate that only VRank shows human-like behavior in its strong ability to find better stories when the quality gap between two stories is high.
 <br>
 <a href="[https://arxiv.org/abs/2105.06950?context=cs.AI](https://aclanthology.org/2022.acl-long.441.pdf)">[Paper Link] (ACL-IJCNLP'22)</a></small>
 </div>
