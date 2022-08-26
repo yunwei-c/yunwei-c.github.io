@@ -10,10 +10,7 @@ author_profile: true
 </div>
 <div style="margin:8px;float:left;width:75%;text-align:justify;line-height:18px">
 <b>The first reference-free evaluation metric for visual storytelling</b>
-<div>
-  <img src="/images/NLP_tag.png" width="200px">
-</div>
-  <small><br>It remains unclear whether conventional automatic evaluation metrics for text generation are applicable to Visual Storytelling (VIST). We collect VHED (VIST Human Evaluation Data) dataset, which first re-purposes human evaluation results for automatic evaluation; hence develop VRank (VIST ranker), a novel reference-free VIST metric learned from VHED. Experimental results show that our metric's prediction is significantly more aligned to human evaluation than other metrics with almost 30% higher accuracy when ranking story pairs. Moreover, we demonstrate that only VRank shows human-like behavior in its strong ability to find better stories when the quality gap between two stories is high.
+<small><br>It remains unclear whether conventional automatic evaluation metrics for text generation are applicable to Visual Storytelling (VIST). We collect VHED (VIST Human Evaluation Data) dataset, which first re-purposes human evaluation results for automatic evaluation; hence develop VRank (VIST ranker), a novel reference-free VIST metric learned from VHED. Experimental results show that our metric's prediction is significantly more aligned to human evaluation than other metrics with almost 30% higher accuracy when ranking story pairs. Moreover, we demonstrate that only VRank shows human-like behavior in its strong ability to find better stories when the quality gap between two stories is high.
 <br>
 <a href="https://aclanthology.org/2022.acl-long.441.pdf">[Paper Link] (ACL-IJCNLP'22)</a></small>
 </div>
