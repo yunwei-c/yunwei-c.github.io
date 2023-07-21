@@ -1,4 +1,3 @@
-I am a PhD student in the School of Electrical & Computer Engineering at Purdue University, under the guidance of Dr. Christopher Brinton. I am broadly interested in natural language processing (vision-to-language applications and efficient language modeling), machine learning (federated learning and meta-learning), and AI applications for social good. My current research centers around: (1) observing insights into pre-training and initialization for federated learning, (2) understanding the possibility of federated learning in the multi-lingual scenario, and (3) mitigating prediction biases for under-represented minorities in student modeling. During my PhD study, I have had the pleasure of doing my research internship at Microsoft Research, where I was fortunate to work on entity-centric headline generation.
 ---
 permalink: /
 title: "About me"
