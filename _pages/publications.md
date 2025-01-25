@@ -8,6 +8,18 @@ author_profile: true
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
+<b>[Unlocking the Potential of Model Calibration in Federated Learning](https://arxiv.org/abs/2409.04901)</b> 
+<br><b>Yun-Wei Chu</b>, Dong-Jun Han, Seyyedali Hosseinalipour, Christopher Brinton. <i>ICLR 2025</i>.
+<br>
+<b>[Rethinking the Starting Point: Enhancing Performance and Fairness of Federated Learning via Collaborative Pre-Training](https://arxiv.org/abs/2402.02225)</b> 
+<br><b>Yun-Wei Chu</b>, Dong-Jun Han, Seyyedali Hosseinalipour, Christopher Brinton. <i>AAAI 2025</i>.
+<br>
+<b>[Only Send What You Need: Learning to Communicate Efficiently in Federated Multilingual Machine Translation](https://arxiv.org/abs/2401.07456)</b> 
+<br><b>Yun-Wei Chu</b>, Dong-Jun Han, Christopher Brinton. <i>The Web Conference 2024 - FL@LM </i>.
+<br>
+<b>[Multi-layer Personalized Federated Learning for Mitigating Biases in Student Predictive Analytics](https://arxiv.org/abs/2212.02985)</b> 
+<br><b>Yun-Wei Chu</b>, Seyyedali Hosseinalipour, Elizabeth Tenorio, Laura Cruz, Kerrie Douglas, Andrew Lan, Christopher Brinton. <i>IEEE IEEE Transactions on Emerging Topics in Computing, 2024</i>.
+<br>
 <b>[Mitigating Biases in Student Performance Prediction via Attention-Based Personalized Federated Learning](https://arxiv.org/abs/2208.01182)</b> 
 <br><b>Yun-Wei Chu</b>, Seyyedali Hosseinalipour, Elizabeth Tenorio, Laura Cruz, Kerrie Douglas, Andrew Lan, Christopher Brinton. <i>ACM CIKM 2022</i>.
 <br>
