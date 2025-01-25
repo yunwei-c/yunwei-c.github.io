@@ -12,10 +12,9 @@ redirect_from:
 Welcome!
 <br>
 <br>
-I am a PhD student in the School of Electrical & Computer Engineering at Purdue University, under the guidance of <a href="https://www.cbrinton.net/">Dr. Christopher Brinton</a>. 
-I am broadly interested in natural language processing (vision-to-language applications and efficient language modeling), machine learning (federated learning and meta-learning), and AI applications for social good. 
-My current research centers around: (1) observing insights into pre-training and initialization for federated learning, (2) understanding the possibility of federated learning in the multi-lingual scenario, and (3) mitigating prediction biases for under-represented minorities in student modeling. 
-During my PhD study, I have had the pleasure of doing my research internship at <a href="https://www.microsoft.com/en-us/research/">Microsoft Research</a>, where I was fortunate to work on entity-centric headline generation.
+I am a PhD student in the School of Electrical & Computer Engineering at Purdue University, working under the guidance of <a href="https://www.cbrinton.net/">Dr. Christopher Brinton</a>.  
+My research interests include natural language processing (vision-to-language applications and human-preferred language generation/evaluation), machine learning (fairness and reliability in distributed ML), and AI applications for social good. 
+During my PhD studies, I interned at <a href="https://www.nec-labs.com/">NEC Labs</a>, where I worked on reducing hallucination in multimodal LLMs for healthcare scenarios, and at <a href="https://www.microsoft.com/en-us/research/">Microsoft Research</a>, focusing on entity-centric news headline generation.
 
 <br>
 <br>  
