@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <div style="float:left">
-<img class="logoImg amplifyImg" src="/images/nucfl.png" align="left" width="200px" height="200px" >
+<img class="logoImg amplifyImg" src="/images/nucfl.png" align="left" width="200px" height="150px" >
 </div>
 <div style="margin:8px;float:left;width:75%;text-align:justify;line-height:18px">
 <b>Improving reliability for federated learning through model calibration</b>
@@ -19,7 +19,7 @@ author_profile: true
 
 
 <div style="float:left">
-<img class="logoImg amplifyImg" src="/images/coprefl.png" align="left" width="200px" height="200px" >
+<img class="logoImg amplifyImg" src="/images/coprefl.png" align="left" width="200px" height="150px" >
 </div>
 <div style="margin:8px;float:left;width:75%;text-align:justify;line-height:18px">
 <b>Fairness-aware pre-training for federated learning</b>
