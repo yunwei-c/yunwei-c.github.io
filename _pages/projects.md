@@ -12,7 +12,7 @@ author_profile: true
 <b>Improving prediction fairness for minority students in online educational scenarios</b>
 <small><br>Traditional learning-based approaches to student modeling often generalize poorly to underrepresented student groups due to biases in data availability. We propose a personalized method for predicting student performance based on their online learning activities, optimizing inference accuracy across diverse demographic groups, including race and gender. This project introduces distributed machine learning with meta-learning to customize models for subgroup heterogeneity. Experiments on real-world datasets from online courses demonstrate that our approach significantly outperforms existing student modeling baselines, providing improved predictions of student learning outcomes for all subgroups.
 <br>
-<a href="https://arxiv.org/abs/2212.02985">[CIKM '22]</a></small>, <a href="https://arxiv.org/abs/2212.02985">[IEEE TETC]</a></small>
+<a href="https://arxiv.org/abs/2212.02985">[CIKM '22]</a>, <a href="https://arxiv.org/abs/2212.02985">[IEEE TETC]</a></small>
 
 </div>
 <div style="clear:both"></div>
