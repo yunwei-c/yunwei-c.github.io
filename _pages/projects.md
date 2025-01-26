@@ -5,6 +5,21 @@ permalink: /projects/
 author_profile: true
 ---
 
+
+<div style="float:left">
+<img class="logoImg amplifyImg" src="/images/coprefl" align="left" width="200px" height="200px" >
+</div>
+<div style="margin:8px;float:left;width:75%;text-align:justify;line-height:18px">
+<b>Fairness-aware pre-training for federated learning</b>
+<small><br>The initialization issue has received relatively little attention in distributed machine learning compared to centralized ML. We found that existing centrally trained pre-trained models introduce performance and fairness concerns for distributed clients. To address this, we propose the first distributed pre-training strategy that provides downstream federated tasks with a robust initialization, inherently improving both performance and fairness.
+<br>
+<a href="https://arxiv.org/abs/2402.02225">[AAAI'25]</a></small>
+</div>
+<div style="clear:both"></div>
+<hr> 
+
+
+
 <div style="float:left">
 <img class="logoImg amplifyImg" src="/images/multilingualNLP.png" align="left" width="200px" height="200px" >
 </div>
@@ -12,7 +27,7 @@ author_profile: true
 <b>Parameter-efficiency for distributed multilingual NLP</b>
 <small><br>We found that multilingual NLP is a suitable scenario for discussing federated learning since multilingual datasets are often distributed across various locations. However, using large language models introduces a significant communication burden due to the need to exchange a large number of parameters. In this project, we propose a meta-learning-based adaptive parameter selection methodology to improve the communication efficiency of model transmissions from clients in federated multilingual NLP.
 <br>
-<a href="https://arxiv.org/abs/2401.07456">[The Web Conf'24 - FL@FM]</a></a></small>
+<a href="https://arxiv.org/abs/2401.07456">[The Web Conf'24 - FL@FM]</a></small>
 </div>
 <div style="clear:both"></div>
 <hr> 
