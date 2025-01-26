@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <div style="float:left">
-<img class="logoImg amplifyImg" src="/images/ACL_rank.png" align="left" width="200px" height="200px" >
+<img class="logoImg amplifyImg" src="/images/CIKM.png" align="left" width="200px" height="200px" >
 </div>
 <div style="margin:8px;float:left;width:75%;text-align:justify;line-height:18px">
 <b>Improving prediction fairness for minority students in online educational scenarios</b>
