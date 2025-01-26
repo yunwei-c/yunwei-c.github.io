@@ -5,9 +5,21 @@ permalink: /projects/
 author_profile: true
 ---
 
+<div style="float:left">
+<img class="logoImg amplifyImg" src="/images/nucfl.png" align="left" width="200px" height="200px" >
+</div>
+<div style="margin:8px;float:left;width:75%;text-align:justify;line-height:18px">
+<b>Improving reliability for federated learning through model calibration</b>
+<small><br>Generating trustworthy predictions is critical for AI/ML, but there is scarce research addressing reliability issues in distributed machine learning. We found that federated learning suffers from more severe miscalibration issues compared to centralized learning. To tackle this challenge, we propose the first model calibration approach for federated learning. Our method considers global calibration needs during local training through a similarity-based approach, improving model calibration while maintaining performance.
+<br>
+<a href="https://arxiv.org/abs/2409.04901">[ICLR'25]</a></small>
+</div>
+<div style="clear:both"></div>
+<hr> 
+
 
 <div style="float:left">
-<img class="logoImg amplifyImg" src="/images/coprefl" align="left" width="200px" height="200px" >
+<img class="logoImg amplifyImg" src="/images/coprefl.png" align="left" width="200px" height="200px" >
 </div>
 <div style="margin:8px;float:left;width:75%;text-align:justify;line-height:18px">
 <b>Fairness-aware pre-training for federated learning</b>
