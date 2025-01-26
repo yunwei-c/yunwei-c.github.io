@@ -6,6 +6,19 @@ author_profile: true
 ---
 
 <div style="float:left">
+<img class="logoImg amplifyImg" src="/images/multilingualNLP.png" align="left" width="200px" height="200px" >
+</div>
+<div style="margin:8px;float:left;width:75%;text-align:justify;line-height:18px">
+<b>Parameter-efficiency for distributed multilingual NLP</b>
+<small><br>We found that multilingual NLP is a suitable scenario for discussing federated learning since multilingual datasets are often distributed across various locations. However, using large language models introduces a significant communication burden due to the need to exchange a large number of parameters. In this project, we propose a meta-learning-based adaptive parameter selection methodology to improve the communication efficiency of model transmissions from clients in federated multilingual NLP.
+<br>
+<a href="https://arxiv.org/abs/2401.07456">[The Web Conf'24 - FL@FM]</a></a></small>
+</div>
+<div style="clear:both"></div>
+<hr> 
+
+
+<div style="float:left">
 <img class="logoImg amplifyImg" src="/images/CIKM.png" align="left" width="200px" height="200px" >
 </div>
 <div style="margin:8px;float:left;width:75%;text-align:justify;line-height:18px">
@@ -13,7 +26,6 @@ author_profile: true
 <small><br>Traditional learning-based approaches to student modeling often generalize poorly to underrepresented student groups due to biases in data availability. We propose a personalized method for predicting student performance based on their online learning activities, optimizing inference accuracy across diverse demographic groups, including race and gender. This project introduces distributed machine learning with meta-learning to customize models for subgroup heterogeneity. Experiments on real-world datasets from online courses demonstrate that our approach significantly outperforms existing student modeling baselines, providing improved predictions of student learning outcomes for all subgroups.
 <br>
 <a href="https://arxiv.org/abs/2212.02985">[CIKM '22]</a>, <a href="https://arxiv.org/abs/2212.02985">[IEEE TETC]</a></small>
-
 </div>
 <div style="clear:both"></div>
 <hr> 
